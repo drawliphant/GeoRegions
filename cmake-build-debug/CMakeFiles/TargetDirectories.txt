@@ -1,0 +1,4 @@
+C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/CMakeFiles/GeoRegions.dir
+C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/CMakeFiles/Test.dir
+C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="GeoRegions"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GeoRegions">
+				<Option output="C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/GeoRegions.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-6.3.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-6.3.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-6.3.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-6.3.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-6.3.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-6.3.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 GeoRegions"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="GeoRegions/fast">
+				<Option output="C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/GeoRegions.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-6.3.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-6.3.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-6.3.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-6.3.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-6.3.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-6.3.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 GeoRegions/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test">
+				<Option output="C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-6.3.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-6.3.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-6.3.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-6.3.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-6.3.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-6.3.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 Test"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Test/fast">
+				<Option output="C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Test.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-6.3.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/include/c++"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-6.3.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-6.3.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-6.3.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-6.3.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-6.3.0-posix-seh-rt_v5-rev1/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/6.3.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 Test/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/drawl_000/ClionProjects/GeoRegions/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/City.cpp">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/City.h">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/County.cpp">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/County.h">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/CountyUserInterface.cpp">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/CountyUserInterface.h">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/Menu.cpp">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/Menu.h">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/MenuOption.cpp">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/MenuOption.h">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/Nation.cpp">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/Nation.h">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/NationUserInterface.cpp">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/NationUserInterface.h">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/Region.cpp">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/Region.h">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/State.cpp">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/State.h">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/StateUserInterface.cpp">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/StateUserInterface.h">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/Testing/RegionTester.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/Testing/RegionTester.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/Testing/UtilsTester.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/Testing/UtilsTester.h">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/Testing/testMain.cpp">
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/UserInterface.cpp">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/UserInterface.h">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/Utils.cpp">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/Utils.h">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/World.cpp">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/World.h">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/WorldUserInterface.cpp">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/WorldUserInterface.h">
+			<Option target="GeoRegions"/>
+			<Option target="Test"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/main.cpp">
+			<Option target="GeoRegions"/>
+		</Unit>
+		<Unit filename="C:/Users/drawl_000/ClionProjects/GeoRegions/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
